@@ -1,0 +1,27 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1703527207961,
+      "tag": "0000_abnormal_ghost_rider",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1703528748600,
+      "tag": "0001_warm_guardian",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1703530591745,
+      "tag": "0002_chunky_eddie_brock",
+      "breakpoints": true
+    }
+  ]
+}
